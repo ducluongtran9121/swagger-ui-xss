@@ -1,1 +1,1 @@
-document.write(133713371337);
+document.title = "XSS 1337";
