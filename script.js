@@ -1,1 +1,1 @@
-alert(document.domain + "\n" + document.cookie);
+document.write(133713371337);
